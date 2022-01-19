@@ -65,3 +65,9 @@ Dev-C++是一个Windows环境下的一个适合于初学者使用的轻量级 C/
 **Node.js**
 Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时
 
+**The X 在线工具箱**
+[The X 在线工具箱](https://the-x.cn/)
+
+**010 Editor**
+在解析和编辑一切可视的二进制文件方面功能强大,有别于传统的十六进制编辑器
+
