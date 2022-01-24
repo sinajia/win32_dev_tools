@@ -101,3 +101,19 @@ x64dbg是一款操作简单的Win32调试工具，它采用QT编写，是Windows
 **UPX**
 
 一款先进的可执行程序文件压缩器，压缩过的可执行文件体积缩小50%-70% ，这样减少了磁盘占用空间、网络上传下载的时间和其它分布以及存储费用
+
+**Cutter**
+
+Cutter 的目标是成为一个先进的免费和开源逆向工程平台，同时将用户体验牢记在心，Cutter由逆向工程师为反向工程师创建
+
+**GDA**
+
+GGJoy Dex Analysizer(GDA)，国内第一款也是唯一一款全交互式反编译器，并且其不仅只是反编译器，同时也是一款强大、轻便的综合性逆向分析利器，其不依赖任何java库且支持apk,dex,odex,oat,aar,jar,class文件， 支持python脚本自动化以及方法签名制作与识别
+
+
+**JADX**
+
+Command line and GUI tools for producing Java source code from Android Dex and Apk files
+
+
+
