@@ -105,7 +105,7 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时
 
 **x64dbg**
 
-x64dbg是一款操作简单的Win32调试工具，它采用QT编写，是Windows 下的 32/64 位调试器,类似 Ollydbg。熟悉 Ollydbg 调试工具的应该很容易上手。整体前景比较乐观,功能有待更强
+x64dbg是一款操作简单的Win32调试工具，它采用QT编写，是Windows 下的 32/64 位调试器,类似 Ollydbg。熟悉 Ollydbg 调试工具的应该很容易上手。整体前景比较乐观，功能有待更强
 
 ![](./png/x64_20220125115052.png)
 
