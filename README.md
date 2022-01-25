@@ -65,6 +65,8 @@ Sublime Text 是一个文本编辑器（收费软件，可以无限期试用，�
 
 PE分析综合工具
 
+![](./png/studpe_20220125163307.png)
+
 **Fiddler**
 
 Fiddler是一个http调试代理，它能够记录并检查所有你的电脑和互联网之间的http通讯
