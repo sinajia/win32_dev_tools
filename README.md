@@ -1,14 +1,17 @@
 # win32_tools
 win32开发必备工具;Necessary tools for Windows development
 
-
 **everything**
 
 Everything是voidtools开发的一款文件搜索工具，官网描述为“基于名称实时定位文件和目录（Locate files and folders by name instantly）
 
+![](./png/everything_20220125113941.png)
+
 **Typora**
 
 免费的跨平台Markdown编辑器
+
+![](./png/typora.png)
 
 **Notepad++**
 
@@ -30,9 +33,13 @@ Git 是一个开源的分布式版本控制系统
 
 MiniHex是一款开放源代码的、小巧而实用的十六进制编辑器
 
+![](./png/minhex_20220125114802.png)
+
 **SysinternalsSuite**
 
 Sysinternals Suite是微软官方发布的系统工具包，其中包含几十款实用的绿色系统工具软件，个个身怀绝技，是你维护Windows系统不可或缺的好帮手。最新版Sysinternals Suite包含69款系统工具的32位和64位版本，都是绿色软件，无需安装即可使用。把它放在你的U盘里，那就是你的随身系统工具箱
+
+![](./png/sys_20220125114917.png)
 
 **Beyond Compare**
 
@@ -90,6 +97,8 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时
 
 [The X 在线工具箱](https://the-x.cn/)
 
+![](./png/ttools_20220125115658.png)
+
 **010 Editor**
 
 在解析和编辑一切可视的二进制文件方面功能强大,有别于传统的十六进制编辑器
@@ -97,6 +106,8 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时
 **x64dbg**
 
 x64dbg是一款操作简单的Win32调试工具，它采用QT编写，是Windows 下的 32/64 位调试器,类似 Ollydbg。熟悉 Ollydbg 调试工具的应该很容易上手。整体前景比较乐观,功能有待更强
+
+![](./png/x64_20220125115052.png)
 
 **UPX**
 
@@ -119,3 +130,4 @@ Command line and GUI tools for producing Java source code from Android Dex and A
 
 静态反编译软件
 
+![](./png/ida_20220125115358.png)
