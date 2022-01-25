@@ -57,6 +57,8 @@ Sublime Text 是一个文本编辑器（收费软件，可以无限期试用，�
 
 一款强有力的编程辅助工具，对分析窗体结构有独到之处
 
+![](./png/spy_20220125165254.png)
+
 **Microsoft SQL Server Management Studio**
 
 用于管理 SQL Server的客户端
@@ -133,3 +135,5 @@ Command line and GUI tools for producing Java source code from Android Dex and A
 静态反编译软件
 
 ![](./png/ida_20220125115358.png)
+
+
