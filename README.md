@@ -19,19 +19,27 @@ Notepad++是一款免费的文本/代码编辑器
 
 **UltraEdit**
 
-UltraEdit是用于Microsoft Windows上的一套商业性文本编辑器。它有强大的编程功能，是理想的文本、HTML和十六进制编辑器，收费
+UltraEdit是用于Microsoft Windows上的一套商业性文本编辑器。它有强大的编程功能，是理想的文本、HTML和十六进制编辑器，收费。其牛X的特点是即使文件10多个G，也能瞬间打开编辑
+
+**010 Editor**
+
+在解析和编辑一切可视的二进制文件方面功能强大,有别于传统的十六进制编辑器，支持超大文件编辑
 
 **VScode**
 
 Visual Studio Code是一款由微软开发且跨平台的免费源代码编辑器
 
-**Git**
-
-Git 是一个开源的分布式版本控制系统
-
 **MiniHex**
 
 MiniHex是一款开放源代码的、小巧而实用的十六进制编辑器
+
+**Sublime Text**
+
+Sublime Text 是一个文本编辑器（收费软件，可以无限期试用，但是会有激活提示弹窗），同时也是一个先进的代码编辑器
+
+**Git**
+
+Git 是一个开源的分布式版本控制系统
 
 ![](./png/minhex_20220125114802.png)
 
@@ -44,10 +52,6 @@ Sysinternals Suite是微软官方发布的系统工具包，其中包含几十�
 **Beyond Compare**
 
 BeyondCompare是一款不可多得的专业级的文件夹和文件对比工具。使用它可以很方便的对比出两个文件夹或者文件的不同之处，并把相差的每一个字节用颜色予以表示，查看方便，并且支持多种规则对比
-
-**Sublime Text**
-
-Sublime Text 是一个文本编辑器（收费软件，可以无限期试用，但是会有激活提示弹窗），同时也是一个先进的代码编辑器
 
 **XML验证器**
 
@@ -111,10 +115,6 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时
 [OSCHINA工具箱](https://tool.oschina.net/)
 
 ![](./png/oscn_20220126093855.png)
-
-**010 Editor**
-
-在解析和编辑一切可视的二进制文件方面功能强大,有别于传统的十六进制编辑器
 
 **x64dbg**
 
