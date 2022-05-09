@@ -9,7 +9,7 @@ Everything是voidtools开发的一款文件搜索工具，官网描述为“基�
 
 **Typora**
 
-免费的跨平台Markdown编辑器
+免费的跨平台Markdown编辑器，beta版免费
 
 ![](./png/typora.png)
 
@@ -35,6 +35,8 @@ Visual Studio Code是一款由微软开发且跨平台的免费源代码编辑�
 
 MiniHex是一款开放源代码的、小巧而实用的十六进制编辑器
 
+![](./png/minhex_20220125114802.png)
+
 **Sublime Text**
 
 Sublime Text 是一个文本编辑器（收费软件，可以无限期试用，但是会有激活提示弹窗），同时也是一个先进的代码编辑器
@@ -42,8 +44,6 @@ Sublime Text 是一个文本编辑器（收费软件，可以无限期试用，�
 **Git**
 
 Git 是一个开源的分布式版本控制系统
-
-![](./png/minhex_20220125114802.png)
 
 **SysinternalsSuite**
 
