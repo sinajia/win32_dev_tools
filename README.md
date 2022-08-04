@@ -10,7 +10,7 @@ Everything是voidtools开发的一款文件搜索工具，官网描述为“基�
 
 **MarkText**
 
-免费的跨平台Markdown编辑器，beta版免费
+免费的跨平台Markdown编辑器
 
 ![](./png/mark_text.png)
 
