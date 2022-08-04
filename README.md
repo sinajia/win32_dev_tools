@@ -1,4 +1,5 @@
 # win32_tools
+
 win32开发必备工具;Necessary tools for Windows development
 
 **everything**
@@ -7,11 +8,11 @@ Everything是voidtools开发的一款文件搜索工具，官网描述为“基�
 
 ![](./png/everything_20220125113941.png)
 
-**Typora**
+**MarkText**
 
 免费的跨平台Markdown编辑器
 
-![](./png/typora.png)
+![](./png/mark_text.png)
 
 **Notepad++**
 
@@ -136,7 +137,6 @@ Cutter 的目标是成为一个先进的免费和开源逆向工程平台，同�
 
 GGJoy Dex Analysizer(GDA)，国内第一款也是唯一一款全交互式反编译器，并且其不仅只是反编译器，同时也是一款强大、轻便的综合性逆向分析利器，其不依赖任何java库且支持apk,dex,odex,oat,aar,jar,class文件， 支持python脚本自动化以及方法签名制作与识别
 
-
 **JADX**
 
 Command line and GUI tools for producing Java source code from Android Dex and Apk files
@@ -146,5 +146,3 @@ Command line and GUI tools for producing Java source code from Android Dex and A
 静态反编译软件
 
 ![](./png/ida_20220125115358.png)
-
-
