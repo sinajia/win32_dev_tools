@@ -14,9 +14,9 @@ Everything是voidtools开发的一款文件搜索工具，官网描述为“基�
 
 ![](./png/mark_text.png)
 
-**Notepad++**
+**EditPlus**
 
-Notepad++是一款免费的文本/代码编辑器
+EditPlus是一款强大好用的文本、代码编辑工具，支持正则搜索，表现优异，支持超大文件
 
 **UltraEdit**
 
