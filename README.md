@@ -26,7 +26,7 @@ UltraEdit是用于Microsoft Windows上的一套商业性文本编辑器。它有
 
 **010 Editor**
 
-在解析和编辑一切可视的二进制文件方面功能强大,有别于传统的十六进制编辑器，支持超大文件编辑
+在解析和编辑一切可视的二进制文件方面功能强大，支持超大文件编辑
 
 **VScode**
 
@@ -87,9 +87,9 @@ Wireshark是一个网络封包分析软件。网络封包分析软件的功能�
 
 Mysql官方推出的客户端
 
-**Studio 3T for MongoDB**
+**MongoDB Compass**
 
-MongoDB客户端
+官方提供的免费客户端
 
 **Microsoft Visual Studio**
 
