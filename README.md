@@ -91,6 +91,10 @@ Mysql官方推出的客户端
 
 官方提供的免费客户端
 
+**RedisInsight**
+
+官方推荐的 Redis 可视化客户端
+
 **Microsoft Visual Studio**
 
 Win32完整的开发工具集，它包括了整个软件生命周期中所需要的大部分工具
